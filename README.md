@@ -8,7 +8,7 @@ This repo is made for the second Task of our Software Engineering Project, it ai
 Full Name                                                  |  ID                      | About
 :---------------------------------------------------------:|:------------------------:|:---------:
 [Amr Kayid](https://github.com/AmrMKayid)                  |  37-15594                | Simple Person!
-[Abdullah Emad](https://github.com/abdullahemad12)         |  37-2409                 |
+[Abdullah Emad](https://github.com/abdullahemad12)         |  37-2409                 | a person I guess 
 [Mayar Alfares](https://github.com/              )         |  37-2915                 |
 
 
