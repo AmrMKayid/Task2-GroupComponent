@@ -11,8 +11,3 @@ Full Name                                                  |  ID                
 [Abdullah Emad](https://github.com/abdullahemad12)         |  37-2409                 | a person I guess 
 [Mayar Alfares](https://github.com/              )         |  37-2915                 | Mayar.
 
-
-## TODO:
-
-- [ ] **About** => contains details about each team member and purpose of repository
-- [ ] Design Modifications
