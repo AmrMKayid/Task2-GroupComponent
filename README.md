@@ -9,7 +9,7 @@ Full Name                                                  |  ID                
 :---------------------------------------------------------:|:------------------------:|:---------:
 [Amr Kayid](https://github.com/AmrMKayid)                  |  37-15594                | Simple Person!
 [Abdullah Emad](https://github.com/abdullahemad12)         |  37-2409                 | a person I guess 
-[Mayar Alfares](https://github.com/              )         |  37-2915                 |
+[Mayar Alfares](https://github.com/              )         |  37-2915                 | Mayar.
 
 
 ## TODO:
